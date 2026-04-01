@@ -42,25 +42,25 @@ export const projects = [
 
 export const teamMembers = [
   {
-    name: "Karim Benali",
+    name: "Med",
     role: "CEO & Principal Engineer",
     bio: "Over 25 years of experience in structural and urban engineering across Africa and the Middle East.",
     image: "/images/team1.jpg",
   },
   {
-    name: "Sarah Mansouri",
+    name: "Imen",
     role: "Head of Architecture",
     bio: "Award-winning architect with expertise in sustainable design and smart building technologies.",
     image: "/images/team2.jpg",
   },
   {
-    name: "Youssef El Amrani",
+    name: "Yassin",
     role: "Director of Civil Engineering",
     bio: "Specialist in infrastructure and transportation engineering with 15+ years leading major projects.",
     image: "/images/team3.jpg",
   },
   {
-    name: "Amina Daoudi",
+    name: "Amel",
     role: "Project Management Lead",
     bio: "PMP-certified professional ensuring on-time and on-budget delivery of complex engineering projects.",
     image: "/images/team4.jpg",
@@ -110,7 +110,7 @@ export const podcastEpisodes = [
   },
   {
     title: "Women in Engineering Leadership",
-    guest: "Eng. Sarah Mansouri",
+    guest: "Eng. Imen",
     duration: "38 min",
     date: "Mar 1, 2026",
     description:

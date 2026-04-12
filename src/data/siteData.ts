@@ -60,7 +60,7 @@ export const teamMembers = [
     image: "/images/team3.jpg",
   },
   {
-    name: "Amel",
+    name: "Amel ghanem",
     role: "Project Management Lead",
     bio: "PMP-certified professional ensuring on-time and on-budget delivery of complex engineering projects.",
     image: "/images/team4.jpg",

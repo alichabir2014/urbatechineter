@@ -7,6 +7,7 @@ import Ideas from "./components/Ideas";
 import People from "./components/People";
 import About from "./components/About";
 import Podcast from "./components/Podcast";
+import VendingDashboard from "./components/VendingDashboard";
 import Footer from "./components/Footer";
 
 function App() {
@@ -35,6 +36,8 @@ function App() {
         return <About />;
       case "podcast":
         return <Podcast />;
+      case "vending":
+        return <VendingDashboard />;
       default:
         return <Hero setActivePage={setActivePage} />;
     }

@@ -3,6 +3,7 @@ export const navItems = [
   { id: "ideas", label: "IDEAS" },
   { id: "people", label: "PEOPLE" },
   { id: "about", label: "ABOUT" },
+  { id: "vending", label: "VENDING" },
 ];
 
 export const projects = [
